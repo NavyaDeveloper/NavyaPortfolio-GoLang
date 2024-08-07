@@ -1,4 +1,4 @@
-# Go Web Application
+# Go Web Application  -  Portfolio
 
 This is a simple Portfolio website written in Golang. It uses the `net/http` package to serve HTTP requests.
 
